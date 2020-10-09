@@ -1,6 +1,6 @@
 /*
 The code that read a binary file
-coded by: Musa Furkan Keskin.
+owner of this code : Musa Furkan Keskin
 */
 #include<iostream>
 #include<fstream>
