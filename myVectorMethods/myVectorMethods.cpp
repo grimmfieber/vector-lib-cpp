@@ -1,11 +1,6 @@
 /*
-In this lab, you are expected to define the myVector class. Your class should be able to work for different types of data.
- The functions and their definitions in your class are given in myVector.h file.
- You should fill in the places indicated with… in the OgrenciNumarasi.cpp file given to you so that your program will generate the outputs given.
+owner of this code : Musa Furkan Keskin
 */
-
-//this methods coded by : Musa Furkan Keskin 
-
 #include <iostream>
 #include "myVector.h"
 #include <string>
