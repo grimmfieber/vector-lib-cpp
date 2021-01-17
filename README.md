@@ -6,4 +6,4 @@
 ### For creating vectors I used templates.
 
 
-### Then I created pop,push and etc.
+### Then I created pop() ,push() etc.
