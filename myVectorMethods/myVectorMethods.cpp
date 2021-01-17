@@ -1,6 +1,3 @@
-/*
-owner of this code : Musa Furkan Keskin
-*/
 #include <iostream>
 #include "myVector.h"
 #include <string>
