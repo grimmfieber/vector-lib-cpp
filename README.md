@@ -1,9 +1,5 @@
 # Vectors
 
-### During the cpp course in college I decided to write my own vector methods.
+### Simple approach to vector lib.
 
-
-### For creating vectors I used templates.
-
-
-### Then I created pop() ,push() etc.
+#### This lib can be useful in case of limited resources.
